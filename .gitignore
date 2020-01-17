@@ -1,0 +1,8 @@
+*.zip
+*.csv
+*.psv
+training/
+training_setB/
+.ipynb_checkpoints
+__pycache__
+.npy
